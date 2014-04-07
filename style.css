@@ -7,23 +7,23 @@ body {
 h1 {
 	font-size:32px;
 	color:#006600;
-	background-color:#222222;
+	background-color:##DDA0DD;
 	}
 	
 h2 {
 	font-size:28px;
 	color:#336699;
-	background-color:#222222;
+	background-color:##DDA0DD;
 	}
 h3 {
 	font-size:24px;
 	color:#22ffff;
-	background-color:#222222;
+	background-color:##DDA0DD;
 	}
 h4, h5, h6 {
 	font-size:18px;
 	color:#ff88ff;
-	background-color:#222222;
+	background-color:##DDA0DD;
 	}
 
 a {
